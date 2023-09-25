@@ -1,0 +1,27 @@
+.all-menu {
+    display: flex;
+    justify-content: space-evenly;
+    gap: 10px;
+    font-family: 'OpenDyslexia';
+
+}
+.menu {
+    text-align: center;
+    font-family: 'OpenDyslexia', sans-serif;
+}
+footer {
+    display: flex;
+    justify-content: center;
+    font-family: 'OpenDyslexia', sans-serif;
+}
+body {
+    color: #11264A;
+    font-family: 'OpenDyslexia', sans-serif;
+}
+.button-group {
+    color: #11264A;
+}
+@font-face {
+    font-family: 'OpenDyslexia'; /* Choose a name for your font */
+    src: url('./OpenDyslexic3-Bold.ttf') format('truetype');
+}
